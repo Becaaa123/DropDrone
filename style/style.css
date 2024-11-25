@@ -1,0 +1,11 @@
+body
+{
+    background-image:url(../imagens/Drone.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+h1,form{
+    text-align: center;
+ }
